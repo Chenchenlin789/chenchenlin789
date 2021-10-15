@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there, I am Chen 👋
+🌱  I’m currently learning frontend Web Development
+🔭  I'm looking for a socially and environmentally responsible company to work for
+✨  I am curious, open minded and eager to learn
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenchenlin789)](https://github.com/ellachoy/github-readme-stats)
 
@@ -9,6 +14,13 @@
 <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3&logoColor=1572B6%22/%3E" />
 <img src="https://img.shields.io/badge/Javascript-black?style=flat&logo=CSS3&logoColor=F7DF1E%22/%3E" />
 <img src="https://img.shields.io/badge/React-white?style=flat&logo=CSS3&logoColor=61DAFB%22/%3E" />
+
+
+## 📫 How to reach me: Contact
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/chenchenlin789)](https://github.com/ellachoy)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-yan-lin/)](https://www.linkedin.com/in/ellachoy/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenchenlin@gmail.com)](mailto:egal21de@gmail.com)
 
           
 <!--
