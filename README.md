@@ -1,7 +1,7 @@
 ### Hello there, I am Chen 👋
-🌱  I’m currently learning frontend Web Development
-🔭  I'm looking for a socially and environmentally responsible company to work for
-✨  I am curious, open minded and eager to learn
+- 🌱  I’m currently learning frontend Web Development
+- 🔭  I'm looking for a socially and environmentally responsible company to work for
+- ✨  I am curious, open minded and eager to learn
 
 
 
