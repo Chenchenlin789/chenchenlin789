@@ -19,7 +19,7 @@ Hello there, I am Chen 👋
 ## 📫 How to reach me: Contact
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/chenchenlin789)](https://github.com/chenchenlin789)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-yan-lin/)](https://www.linkedin.com/in/chenyanlin/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-yan-lin/)](https://www.linkedin.com/in/chen-yan-lin/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenchenlin@gmail.com)](mailto:egal21de@gmail.com)
 
           
