@@ -1,8 +1,8 @@
 ### Hello there, I am Chen 👋
-- 🌱  I’m currently learning frontend Web Development
-- 🔭  I'm looking for a socially and environmentally responsible company to work for
+- 🌱  I learned frontend Web Development
+- ☁️  I'm a Salesforce Consultant
+- 💼  I'm working at Capgemini Germany
 - ✨  I am curious, open minded and eager to learn
-
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenchenlin789)](https://github.com/ellachoy/github-readme-stats)
