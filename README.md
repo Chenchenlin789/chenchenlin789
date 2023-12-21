@@ -1,4 +1,4 @@
-### Hello there, I am Chen 👋
+Hello there, I am Chen 👋
 - 🌱  I learned frontend Web Development
 - ☁️  I'm a Salesforce Consultant
 - 💼  I'm working at Capgemini Germany
@@ -18,8 +18,8 @@
 
 ## 📫 How to reach me: Contact
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/chenchenlin789)](https://github.com/ellachoy)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-yan-lin/)](https://www.linkedin.com/in/ellachoy/)
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/chenchenlin789)](https://github.com/chenchenlin789)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chen-yan-lin/)](https://www.linkedin.com/in/chenyanlin/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenchenlin@gmail.com)](mailto:egal21de@gmail.com)
 
           
